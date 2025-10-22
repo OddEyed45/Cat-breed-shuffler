@@ -49,7 +49,7 @@ const App = () => {
     return (
       <div className="shuffle">
         <h1 className="title">
-          Cat breed selector
+          Cat breed shuffler
         </h1>
         <h2 className="title">Shuffle and get cute cat breeds!</h2>
         <button className="shuffle-button" onClick={getKitties}>Shuffle</button>
